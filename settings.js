@@ -22,7 +22,7 @@ global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +201127792059'
+global.author = 'Tech-God\n\nContact: +917466008456'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -38,7 +38,7 @@ global.prefa = ['','!','.','#','&']
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
-global.autoread = false //auto read messages
+global.autoread = true //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
